@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+header{background-color: blueviolet;}
+p{border:2px dotted black;   margin: 10px ;
+padding: 15px;border-radius: 20px;background-color: aliceblue;}
+
+
+header a{text-align: center;
+font-size: 30px;
+
+border: 1px solid burlywood
+;border-radius: 10px;
+background-color: burlywood;
+color: black;
+margin-bottom: 50px;
+margin-left: 130px;}
+
+
+ol{border: 1px dashed black;
+border-radius: 20px;}
